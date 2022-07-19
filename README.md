@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:f0cac9,100:8fa6c6&height=200&section=header&text=Hi!%20I'm&fontSize=120&stroke=ffffff)<br><br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:f0cac9,100:8fa6c6&height=200&section=header&text=Hi!%20I'm&fontSize=120&stroke=ffffff)
+
+<br><br>
+
  <h3 align="center"&fontSize=100><i><strong>✨ _special_ ✨</i></strong><br></h3><br>
  <p align="center">
 <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp
