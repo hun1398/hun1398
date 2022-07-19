@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:f0cac9,100:8fa6c6&height=200&section=header&text=Hi!%20I'm&fontSize=120&stroke=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:f0cac9,100:8fa6c6&height=200&section=header&text=Hi!%20I'm&fontSize=100&stroke=ffffff)
 <p align="center"><strong>🌸SEUNGHUN🌸</strong><br>
 <a href="mailto:dhy9108@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhy9108@gmail.com"/></a>
 <p align="center"><strong>🐥Backend Developer🐥</strong><br>
