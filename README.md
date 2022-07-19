@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:f0cac9,100:8fa6c6&height=200&section=header&text=Hi!%20I'm&fontSize=120&stroke=ffffff)
 
-<br><br>
+<br>
 
  <h3 align="center"&fontSize=100><i><strong>✨ _special_ ✨</i></strong><br></h3><br>
  <p align="center">
