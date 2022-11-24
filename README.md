@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://media2.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=790b7611ba92706616ec5dc9e0244aa249332679b7ce79e4&rid=giphy.gif&ct=g">
+</p>
+
+
 <p align="center"><strong>🌸SEUNGHUN🌸</strong><br>
 <a href="mailto:dhy9108@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhy9108@gmail.com"/></a>
 <p align="center"><strong>🐥Backend Developer🐥</strong><br>
